@@ -14,7 +14,7 @@
 Зайти в созданую папку ( cd "название папки"/).
 В папке прописываем git init (репозиторий создан)
 Чтоб отправить свой репозиторий на GitHub необходимо прописать эти команды
-git remote add origin git@github.com:MykhailoBakanov/First-Project.git
+git remote add origin git@github.com:KiaPower666/First-Project.git
 git branch -M main
 git push -u origin main
 
